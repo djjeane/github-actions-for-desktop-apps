@@ -11,6 +11,7 @@ using OSVersionHelper;
 using Windows.ApplicationModel;
 using Windows.Foundation.Metadata;
 
+
 namespace MyWPFApp
 {
     public class ThisAppInfo
